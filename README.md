@@ -8,3 +8,4 @@ Javascript, Node js, CLI, MySQL
 
 # Photos
 
+![](images/pic1.png)
