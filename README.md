@@ -9,3 +9,5 @@ Javascript, Node js, CLI, MySQL
 # Photos
 
 ![](images/pic1.png)
+![](images/pic2.png)
+![](images/pic3.png)
