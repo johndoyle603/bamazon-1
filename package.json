@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon homework",
+  "main": "customer.js",
+  "scripts": {
+    "test": "homework"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliacassidy/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliacassidy/bamazon/issues"
+  },
+  "homepage": "https://github.com/juliacassidy/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1",
+    "prompt": "^1.0.0"
+  }
+}
